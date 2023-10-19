@@ -63,7 +63,7 @@ Each game page should incorporate the following elements:
  	◦ Consistently positioned across all game pages for a unified user experience.
 
 	7. Styling:
-	◦Each game should exhibit unique styling but should also maintain a consistent theme or design with the other games and the main page.
+	◦ Each game should exhibit unique styling but should also maintain a consistent theme or design with the other games and the main page.
 
 Contact Page Features:
 
